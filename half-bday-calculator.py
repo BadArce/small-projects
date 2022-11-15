@@ -99,3 +99,6 @@ while baseDay == False:
         print(baseDay)
     else:
         print("\ninvalid input, please try again\n")
+
+while True:
+    continue
